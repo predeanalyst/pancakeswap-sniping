@@ -192,5 +192,5 @@ const TradeOnRouter = async (tokenIn, tokenOut) => {
     }
 
     process.on('unhandledRejection', (error, promise) => {
-        console.log(`Error, you should consider re-checking your BNB balance for fees and -Input Token- balance for the swap`);
+        console.log(`Error, you should consider re-checking your BNB balance for fees and -Input Token- (Which is BUSD as default) balance for the swap`);
       });
