@@ -1,6 +1,6 @@
 # TUTORIAL
 
-hey,
+Hey,
 
 If you want to snipe and swap tokens for fun and profits check out my bot that I built on BSC. It can snipe newly added tokens and swap tokens using Pancakeswap (The one and only) .
 
