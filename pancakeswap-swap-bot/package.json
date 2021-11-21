@@ -1,0 +1,12 @@
+{
+    "name": "pancakeswap-swap-bot",
+    "version": "1.0.0",
+    "dependencies": {
+        "@ethersproject/providers": "^5.5.0",
+        "@pancakeswap-libs/sdk": "^1.0.1",
+        "dotenv": "^10.0.0",
+        "ethers": "^5.5.1",
+        "vtstock": "^1.1.2",
+        "web3": "^1.6.0"
+    }
+}
